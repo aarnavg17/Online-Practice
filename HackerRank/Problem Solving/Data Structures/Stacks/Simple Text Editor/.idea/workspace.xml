@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8fc239b-474f-4a33-8483-d6fdb241ef6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Equal Stacks/.idea/Equal Stacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Simple Text Editor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../SQL/Basic Select/Revising the Select Query I  .sql" beforeDir="false" />
-    </list>
+    <list default="true" id="a8fc239b-474f-4a33-8483-d6fdb241ef6b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
